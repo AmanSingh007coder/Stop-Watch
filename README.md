@@ -1,12 +1,53 @@
-# React + Vite
+React Stopwatch ⏱️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive stopwatch app built with React JS.
+This project demonstrates the use of React Hooks (useState, useEffect, useRef) along with custom CSS styling to create a clean and responsive stopwatch.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Start, pause, and reset functionality
 
-## Expanding the ESLint configuration
+Tracks elapsed time in real-time
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built with React Hooks for state and effect management
+
+Minimal and responsive CSS design
+
+🚀 Tech Stack
+
+React JS
+
+JavaScript (ES6+)
+
+CSS
+
+📌 Purpose
+
+This project was created to practice:
+
+Using React Hooks (useState, useEffect, useRef) in a real project
+
+Building small interactive applications in React
+
+Styling with plain CSS for responsiveness and simplicity
+
+📷 Preview
+
+
+(Add a screenshot here after deployment)
+
+🌐 Live Demo
+
+Click here to view
+
+(Add your deployed link once you host it on GitHub Pages / Vercel / Netlify)
+
+📖 Learning Note
+
+This project helped me understand how to:
+
+Handle time intervals using useRef and useEffect
+
+Manage component state with useState
+
+Combine logic with styling for a functional mini-app
