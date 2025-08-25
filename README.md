@@ -31,10 +31,6 @@ Building small interactive applications in React
 
 Styling with plain CSS for responsiveness and simplicity
 
-📷 Preview
-
-
-(Add a screenshot here after deployment)
 
 🌐 Live Demo
 
